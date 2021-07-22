@@ -107,3 +107,6 @@ program.option('-t, --transform <package name or path>', 'plugin path or npm pac
 
 大致记录一下命令行工具开发
 
+最后附赠一篇比较有参考意义的文章
+https://www.sohu.com/a/275486462_495695
+
