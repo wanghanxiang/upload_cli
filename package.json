@@ -1,0 +1,25 @@
+{
+  "name": "duola",
+  "version": "1.0.0",
+  "description": "duola app 相关工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "duola": "index.js"
+  },
+  "preferGlobal": true,
+  "author": "xiangzai",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "commander": "^8.0.0",
+    "cross-spawn": "^7.0.3",
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.1.2",
+    "semver": "^7.3.5",
+    "shelljs": "^0.8.4",
+    "yargs": "^17.0.1"
+  }
+}
